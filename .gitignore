@@ -1,9 +1,8 @@
 /nbproject/
 /runtime/*
 /application/admin/command/Install/*.lock
-/public/assets/libs/
-/public/assets/addons/*
 /public/uploads/*
+.env
 .idea
 composer.lock
 *.log
